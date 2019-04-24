@@ -1,1 +1,0 @@
-This is the directory for Supplemental Material for "Stiffness as a control factor for object manipulation"
